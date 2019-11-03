@@ -1,0 +1,26 @@
+.tableMain {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  min-height: 60vh;
+  margin: 15px, 0px;
+  min-width: 50vw;
+}
+
+.tableMain .header,
+.tableMain .value {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.tableMain .formName {
+  padding: 8px;
+  font-size: 1.3em;
+}
+
+.tableMain .header {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #f2f2f2;
+  text-align: left;
+  color: black;
+  width: 40%;
+}

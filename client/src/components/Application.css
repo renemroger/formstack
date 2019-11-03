@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.layout {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  margin: 15px 50px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1em;
+  color: black;
+}
